@@ -1,0 +1,11 @@
+.factory > div {
+  margin: 20px 0;
+}
+
+.factory button {
+  margin: 8px;
+}
+
+.factory .actions {
+  text-align: center;
+}

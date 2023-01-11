@@ -1,0 +1,18 @@
+.prototype {
+  text-align: center;
+}
+
+.prototype > div {
+  margin: 20px 0;
+}
+
+.prototype button {
+  margin: 8px;
+}
+
+.prototype .builder-node label {
+  display: inline-block;
+  width: 150px;
+  text-align: right;
+  margin-right: 20px;
+}

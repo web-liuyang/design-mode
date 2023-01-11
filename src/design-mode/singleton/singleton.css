@@ -1,0 +1,18 @@
+.singleton {
+  text-align: center;
+}
+
+.singleton > div {
+  margin: 20px 0;
+}
+
+.singleton button {
+  margin: 8px;
+}
+
+.singleton .builder-node label {
+  display: inline-block;
+  width: 150px;
+  text-align: right;
+  margin-right: 20px;
+}

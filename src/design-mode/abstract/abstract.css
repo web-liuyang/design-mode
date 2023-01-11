@@ -1,0 +1,11 @@
+.abstract > div {
+  margin: 20px 0;
+}
+
+.abstract button {
+  margin: 8px;
+}
+
+.abstract .actions {
+  text-align: center;
+}

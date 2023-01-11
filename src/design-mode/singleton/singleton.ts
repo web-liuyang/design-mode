@@ -1,0 +1,1 @@
+export { SingletonRenderer } from "./renderer";

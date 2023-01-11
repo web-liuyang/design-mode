@@ -1,0 +1,26 @@
+.home {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  text-align: center;
+}
+
+.home .tab-item {
+  flex: 1;
+}
+
+.home .tab-item__title {
+  line-height: 48px;
+  font-size: 24px;
+}
+
+.home .tabview-item {
+  line-height: 36px;
+  padding: 0 8px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.home .tabview-item:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}
